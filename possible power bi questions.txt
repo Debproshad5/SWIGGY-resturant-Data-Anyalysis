@@ -1,0 +1,35 @@
+1. General Insights
+How many restaurants are there in each country?
+Which cities have the highest number of restaurants?
+What is the distribution of restaurants by price range?
+2. Customer Preferences & Ratings
+What is the average rating of restaurants across different cities and countries?
+How does the price range correlate with customer ratings?
+Which cuisines receive the highest ratings?
+Does having table booking or online delivery impact restaurant ratings?
+3. Business Performance
+Which restaurants have the most customer votes?
+What is the relationship between the number of votes and the rating?
+Are restaurants with online delivery more popular (higher ratings/votes) than those without?
+How does the number of cuisines offered impact the rating of a restaurant?
+4. Geographic Analysis
+Which localities have the highest concentration of restaurants?
+How does the geographic location (latitude/longitude) influence restaurant performance?
+Are there regional trends in the types of cuisines offered?
+5. Pricing & Cost Analysis
+What is the average cost for two people across different price ranges?
+How does the average cost for two vary by country and city?
+What is the correlation between price range and online delivery availability?
+6. Restaurant Trends & Growth Analysis
+What is the distribution of restaurants based on their opening dates?
+Has the number of new restaurant openings increased or decreased over time?
+Are newer restaurants performing better in terms of ratings and votes?
+7. Online Delivery & Ordering Trends
+What percentage of restaurants offer online delivery?
+Is there a correlation between offering online delivery and receiving higher ratings?
+How many restaurants have switched to an order menu?
+
+
+key insights 
+top 10 cities with most resturants
+top 5 most served food types
